@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="37px" viewBox="0 0 158 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>tbg-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Wireframes-v4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-v3-Copy" transform="translate(-130.000000, -166.000000)">
+            <g id="tbg-logo" transform="translate(130.000000, 166.000000)">
+                <text id="THE-BRONX" font-family="FoundersGrotesk-Bold, Founders Grotesk" font-size="23.625" font-weight="bold" letter-spacing="0.314999995" fill="#2E2D77">
+                    <tspan x="27.566658" y="15.1915018">THE BRON</tspan>
+                    <tspan x="141.525783" y="15.1915018">X</tspan>
+                </text>
+                <text id="GARDEN" font-family="FoundersGrotesk-Regular, Founders Grotesk" font-size="17.822637" font-weight="normal" letter-spacing="2.20500004" fill="#2E2D77">
+                    <tspan x="27.566658" y="34.4146384">GARDE</tspan>
+                    <tspan x="94.1269951" y="34.4146384" letter-spacing="0.0472500019">N</tspan>
+                </text>
+                <path d="M16.505181,28.121751 L16.505181,28.174041 C16.505181,32.717286 12.822201,36.400581 8.278641,36.400581 L8.226666,36.400581 C3.683106,36.400581 0.000126,32.717286 0.000126,28.174041 L0.000126,19.895211 L8.278641,19.895211 C12.822201,19.895211 16.505181,23.578506 16.505181,28.121751" id="Fill-2" fill="#0B8943"></path>
+                <path d="M16.505181,9.7136235 L16.505181,9.6613335 C16.505181,5.1180885 12.822201,1.4347935 8.278641,1.4347935 L8.226666,1.4347935 C3.683106,1.4347935 0.000126,5.1180885 0.000126,9.6613335 L0.000126,17.9401635 L8.278641,17.9401635 C12.822201,17.9401635 16.505181,14.2568685 16.505181,9.7136235" id="Fill-3" fill="#F6B1BC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,7 +1,30 @@
+<section class="hero">
+      <%= image_tag "drop-red.svg" %>
+
+      <div class="overlay">
+
+          <h2>The Bronx Garden is an iconic living museum, a major educational institution, and a renowned plant research and conservation organization.</h2>
+
+          <p>Let us know what you thought about your visit!</p>
+
+        <%= link_to "Add a review", new_review_path %>
+
+      </div>
+    </section>
+
 <% @reviews.each do |review| %>
+
+<div class="review-list">
 
 <div class="review">
 	<%= link_to review.title, review_path(review) %>
+
+	<div class="score-bubble">
+	<%= link_to review.score, review_path(review) %>
+</div>
+
+</div>
+
 </div>
 
 <% end %>

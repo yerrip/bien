@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="415px" height="415px" viewBox="0 0 415 415" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>drop-red</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Wireframes-v4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-v3-Copy" transform="translate(0.000000, -563.000000)" fill="#F3806E">
+            <path d="M415,771.157372 L415,769.842628 C415,655.61031 322.395843,563 208.153425,563 L206.846575,563 C92.6041567,563 -2.84217094e-14,655.61031 -2.84217094e-14,769.842628 L-2.84217094e-14,978 L208.153425,978 C322.395843,978 415,885.38969 415,771.157372" id="drop-red" transform="translate(207.500000, 770.500000) rotate(-270.000000) translate(-207.500000, -770.500000) "></path>
+        </g>
+    </g>
+</svg>

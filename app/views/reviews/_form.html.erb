@@ -1,5 +1,24 @@
 <%= form_for @review do |f| %>
 
+<!-- <div class="errors">
+	<p>The title is not there</p>
+	
+</div> -->
+
+<% if @review.errors.any? %>
+
+	<div class="errors">
+
+		<% @review.errors.full_messages.each do |message| %>
+
+		<p><%= message %></p>
+
+		<% end %>
+
+	</div>
+
+<% end %>
+
 <p>
 	<%= f.label :title %>
 	<%= f.text_field :title %>
